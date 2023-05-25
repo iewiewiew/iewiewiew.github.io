@@ -1,0 +1,3 @@
+[submodule "my-website/docs"]
+	path = my-website/docs
+	url = git@github.com:iewiewiew/wei-notebook.git
